@@ -40,3 +40,6 @@ body
 div.images:hover{
     border: 4px solid red;
 }
+li:hover{
+    background-color: blueviolet;
+}
